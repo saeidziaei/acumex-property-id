@@ -1,0 +1,5 @@
+type PropertyID @model {
+  id: ID!
+  name: String!
+  landId: String
+}
